@@ -1,2 +1,3 @@
 # git_test
 test repository for odin project learning
+Hello Odin
